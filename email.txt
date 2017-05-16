@@ -1,0 +1,16 @@
+we:Shopper
+admin:Administrator
+we:Shopper
+mao.leon2012@gmail.com:Shopper
+kerry:Shopper
+k:Shopper
+m:Shopper
+mu:Shopper
+pk:Shopper
+pko:Shopper
+pokemon:Shopper
+admink:Administrator
+g:Shopper
+f:Shopper
+s1:Shopper
+admin1:Administrator
